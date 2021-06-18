@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Nanasaheb Yadav</h1>
 <h3 align="center">A passionate Python Developer (RPA) from India.</h3>
 
