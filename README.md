@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nanayadav33@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/nanasaheb-yadav/nanasaheb-yadav/blob/main/Nanasaheb-Yadav-Python.pdf](https://github.com/nanasaheb-yadav/nanasaheb-yadav/blob/main/Nanasaheb-Yadav-Python.pdf)
+- 📄 Know about my experiences [Nanasaheb-Yadav-Python.pdf](/Nanasaheb-Yadav-Python.pdf)
 
 
 <h3 align="left">Languages and Tools:</h3>
