@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **REST API Development**
 
-- 💬 Ask me about **Python, RPA**
+- 💬 Ask me about **Python, Automation**
 
 - 📫 How to reach me **nanayadav33@gmail.com**
 
