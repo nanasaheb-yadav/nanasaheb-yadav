@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanasaheb-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="nanasaheb-yadav" /> </p>
 
-- 🔭 I’m currently working on **ETL Data Migration tool Automation**
+- 🔭 I’m currently working on **Flask API Development**
 
-- 🌱 I’m currently learning **Snowflake, Shell Scripting, ETL, Python**
+- 🌱 I’m currently learning **Flask, REST API's, DBT, Python**
 
-- 👯 I’m looking to collaborate on **Automation**
+- 👯 I’m looking to collaborate on **DevOps**
 
 - 🤝 I’m looking for help with **REST API Development**
 
